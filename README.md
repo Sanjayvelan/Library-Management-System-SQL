@@ -12,3 +12,13 @@ I was responsible for:
 - Writing the `CREATE TABLE`, `INSERT`, `ALTER`, and `AUTO_INCREMENT` statements.
 - Ensuring proper indexing and normalization.
 - Supporting the backend team with necessary SQL queries.
+
+## 📌 Features of the Database
+
+- **Admins**: Admin authentication details.
+- **Authors**: Stores book author names.
+- **Books**: Links authors and categories to book info.
+- **Category**: Subject or genre of books.
+- **Issued_Books**: Tracks issued books to users.
+- **Users**: Library users' information.
+
